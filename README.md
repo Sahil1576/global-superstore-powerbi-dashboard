@@ -85,7 +85,7 @@ This project contains **3 interactive dashboard pages**:
 
 # 📷 Dashboard Preview
 
-<img width="1027" height="577" alt="image" src="https://github.com/user-attachments/assets/50f15f42-3e19-484b-895e-f452a6f92baa" />
+<img width="1024" height="579" alt="image" src="https://github.com/user-attachments/assets/ed73ce17-98f9-41ed-b28b-9ec47f378030" />
 <img width="1026" height="579" alt="image" src="https://github.com/user-attachments/assets/39961534-fad2-43ee-ac97-21ef29e83a9f" />
 <img width="1028" height="579" alt="image" src="https://github.com/user-attachments/assets/2ca4e05e-95b6-44b5-b547-a6d61ed64135" />
 
